@@ -5,12 +5,6 @@
 
 Este é um pequeno projeto desenvolvido totalmente em Flutter, e com o foco principal em aprimorar minhas habilidades na utilização de api e também minha logica no flutter.
 
-## 📸 Demonstração
-
-
-https://user-images.githubusercontent.com/66914500/148655849-56bbe6be-0190-4bf3-a03c-7de1c8feff7c.mp4
-
-
 ## :computer: Recursos Utilizados: 
 
 Necessário realizar a instalação das aplicações/frameworks abaixo:
